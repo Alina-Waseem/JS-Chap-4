@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(203, 154, 177);
+}
+
+h1{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+}
+hr{
+    width: 12%;
+    height: 5px;
+    background-color: #d4d4d4;
+    margin-bottom: 16px;
+    border-radius:6px;
+}
+
+.Exercise{
+    margin-left: 3%;
+    
+}
